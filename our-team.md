@@ -5,7 +5,7 @@
 
 ## Introduce our teammate
 ### **tintin-sr**
-[image-url]
+![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/e8e4808cef01fbb6d30398cc93fadf5e6264594a/images/773270762_1730411374829566_5224588828922445651_n.jpg)
 + **Social pages - [Instagram](https://www.instagram.com/tintin_apr/)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** ติณณภพ อภิรักษ์ไกรศรี
@@ -24,7 +24,7 @@
 > Interview by ***Vanorn***
 ---
 ### **Vanorn**
-![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/3b89de18675220dbe71a9df77b0b93aa1d766aaf/images/empire_22_of_50.jpg)
+![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/e8e4808cef01fbb6d30398cc93fadf5e6264594a/images/FB_IMG_1599872599433.jpg)
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
