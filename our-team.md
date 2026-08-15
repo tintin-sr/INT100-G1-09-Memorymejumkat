@@ -5,7 +5,7 @@
 
 ## Introduce our teammate
 ### **tintin-sr**
-[image-url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -24,7 +24,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **Vanorn**
-![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/7cbf320a8ffdef74103d020d5efe63bc6aee7dc6/empire_22_of_50.jpg)
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -43,7 +43,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **CopterzzZ**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -62,7 +62,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **MISZURIE**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -81,7 +81,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **Safer005**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -100,7 +100,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **siraphat769**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
