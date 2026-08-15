@@ -24,7 +24,7 @@
 > Interview by ***Vanorn***
 ---
 ### **Vanorn**
-[image.url]
+![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/3b89de18675220dbe71a9df77b0b93aa1d766aaf/images/empire_22_of_50.jpg)
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -43,7 +43,7 @@
 > Interview by ชื่อคนสัมภาษณ์
 ---
 ### **CopterzzZ**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -62,7 +62,7 @@
 > Interview by ชื่อคนสัมภาษณ์
 ---
 ### **MISZURIE**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -81,7 +81,7 @@
 > Interview by ชื่อคนสัมภาษณ์
 ---
 ### **Safer005**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -100,7 +100,7 @@
 > Interview by ชื่อคนสัมภาษณ์
 ---
 ### **siraphat769**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
