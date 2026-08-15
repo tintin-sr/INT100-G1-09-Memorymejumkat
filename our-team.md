@@ -5,7 +5,7 @@
 
 ## Introduce our teammate
 ### **tintin-sr**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -24,7 +24,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **Vanorn**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
     - [Instragram](https://www.instrgram.com/fadillgetmoney?igsh=ejk0NXM1NGQ4cWU0)
 + **ข้อมูลส่วนตัว**
@@ -46,7 +46,7 @@
 > interview by tintin-sr
 ---
 ### **CopterzzZ**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -65,7 +65,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **MISZURIE**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -84,7 +84,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **Safer005**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
@@ -103,7 +103,7 @@
 > interview by ชื่อคนสัมภาษณ์
 ---
 ### **siraphat769**
-[image.url]
+![image alt]()
 + **Social pages (ลิงก์โซเซียล)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** name surname
