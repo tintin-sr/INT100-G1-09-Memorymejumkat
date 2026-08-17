@@ -85,7 +85,7 @@
 + **Social pages ([ลิงก์โซเซียล](https://www.linkedin.com/in/ploychomphoo-kathinthet-974491328?utm_source=share_via&utm_content=profile&utm_medium=member_ios))**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** พลอยชมพู กฐินเทศ :smile:
-    - **ชื่อเล่น :** nickname
+    - **ชื่อเล่น :** Angel
     - **วันเดือนปีเกิด :** 20 / 02 / 2550
     - **อายุ :** 19
 
