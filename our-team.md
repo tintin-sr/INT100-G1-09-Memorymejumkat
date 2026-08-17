@@ -5,23 +5,23 @@
 
 ## Introduce our teammate
 ### **tintin-sr**
-![image alt]()
-+ **Social pages (ลิงก์โซเซียล)**
+![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/e8e4808cef01fbb6d30398cc93fadf5e6264594a/images/773270762_1730411374829566_5224588828922445651_n.jpg)
++ **Social pages - [Instagram](https://www.instagram.com/tintin_apr/)**
 + **ข้อมูลส่วนตัว**
-    - **ชื่อ-นามสกุล :** name surname
-    - **ชื่อเล่น :** nickname
-    - **วันเดือนปีเกิด :** xx-xx-xxxx
-    - **อายุ :** xx
+    - **ชื่อ-นามสกุล :** ติณณภพ อภิรักษ์ไกรศรี
+    - **ชื่อเล่น :**  ติณ
+    - **วันเดือนปีเกิด :** 23-3-2550
+    - **อายุ :** 18
 
 + **สิ่งที่ชอบ**
-    - อธิบาย
+    - ชอบกินอาหารอร่อยๆ/ท่องเที่ยว
 + **สิ่งที่ไม่ชอบ**
-    - อธิบาย
+    - ไม่ชอบมีปัญหา
 + **งานอดิเรก หรือเวลาว่างชอบทำอะไร**
-    - อธิบาย
+    - เล่นกีฬาบาสเก็ตบอล
 + **เป้าหมายหรือสิ่งที่อยากทำ**
-    - อธิบาย
-> interview by ชื่อคนสัมภาษณ์
+    - อยากเรียนจบแล้วมีงานทำ
+> Interview by ***Vanorn***
 ---
 ### **Vanorn**
 ![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/e8e4808cef01fbb6d30398cc93fadf5e6264594a/images/FB_IMG_1599872599433.jpg)
@@ -90,7 +90,7 @@
     - อธิบาย
 + **เป้าหมายหรือสิ่งที่อยากทำ**
     - อธิบาย
-> interview by ชื่อคนสัมภาษณ์
+> Interview by ชื่อคนสัมภาษณ์
 ---
 ### **Safer005**
 ![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/Safer/images/1778845968805.jpg?raw=true)
