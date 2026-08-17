@@ -91,8 +91,6 @@
 + **เป้าหมายหรือสิ่งที่อยากทำ**
     - อยากหางานดีๆทำสักงาน :computer:
 > interview by **MISZURIE**
-    - อธิบาย
-> Interview by ชื่อคนสัมภาษณ์
 ---
 ### **MISZURIE**
 ![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/Safer/images/1778845968805.jpg?raw=true)
