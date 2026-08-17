@@ -26,7 +26,7 @@
 ### **Vanorn**
 ![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/e8e4808cef01fbb6d30398cc93fadf5e6264594a/images/FB_IMG_1599872599433.jpg)
 + **Social pages (ลิงก์โซเซียล)**
-    - [Instragram](https://www.instagram.com/fadillgetmoney/)
+    - [Instagram](https://www.instagram.com/fadillgetmoney/)
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** ฟาฎิล วานิ
     - **ชื่อเล่น :** ดิ้ล
@@ -48,7 +48,7 @@
 ### **CopterzzZ**
 ![image alt](./images/copter.jpg)
 + **Social pages (ลิงก์โซเซียล)** :link:
-    - **[Instragram](https://www.instagram.com/_slowboyyz/)**
+    - **[Instagram](https://www.instagram.com/_slowboyyz/)**
 + **ข้อมูลส่วนตัว**
     - **ชื่อ-นามสกุล :** ชัชพล บุญรักษ์
     - **ชื่อเล่น :** คอปเตอร์
