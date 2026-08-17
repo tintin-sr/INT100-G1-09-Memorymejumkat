@@ -73,7 +73,7 @@
     - มีงานที่ให้อิสระทางการเงินมากพอไปเที่ยว :money_with_wings:
 > interview by **siraphat769**
 ---
-### **MISZURIE**
+### **Safer005**
 ![image alt](images/safer.png)
 + **Social pages [Instagram](https://www.instagram.com/sxfechyu?igsh=eWY4dWl5cTV2a3Jn)**
 + **ข้อมูลส่วนตัว**
@@ -94,7 +94,7 @@
     - อธิบาย
 > Interview by ชื่อคนสัมภาษณ์
 ---
-### **Safer005**
+### **MISZURIE**
 ![image alt](https://github.com/tintin-sr/INT100-G1-09-Memorymejumkat/blob/Safer/images/1778845968805.jpg?raw=true)
 + **Social pages ([ลิงก์โซเซียล](https://www.linkedin.com/in/ploychomphoo-kathinthet-974491328?utm_source=share_via&utm_content=profile&utm_medium=member_ios))**
 + **ข้อมูลส่วนตัว**
